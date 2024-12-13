@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-import examen.Matiere;
-import examen.Note;
-import inscription.Etudiant;
-import inscription.GestionEtudiant;
+import examen.semestre1.Matiere;
+import examen.semestre1.Note;
+import inscription.tranche.Etudiant;
+import inscription.tranche.GestionEtudiant;
 
 public class App {
     public static void main(String[] args) throws Exception {

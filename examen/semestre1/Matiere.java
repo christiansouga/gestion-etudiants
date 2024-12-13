@@ -1,4 +1,4 @@
-package examen;
+package examen.semestre1;
 
 public class Matiere {
     private String nom;

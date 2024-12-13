@@ -1,4 +1,4 @@
-package inscription;
+package inscription.tranche;
 import java.util.ArrayList;
 import java.util.List;  
 

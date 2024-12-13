@@ -1,4 +1,4 @@
-package inscription; 
+package inscription.tranche; 
 public class Etudiant {
 
     private String matricule;
